@@ -1,0 +1,234 @@
+[21-May-2020 04:17:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 11984 bytes) in /home/pixml8xz/public_html/gokul/system/library/image.php on line 123
+[25-Jun-2020 06:07:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 14400 bytes) in /home/pixml8xz/public_html/gokul/system/library/image.php on line 169
+[25-Jun-2020 06:07:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 14400 bytes) in /home/pixml8xz/public_html/gokul/system/library/image.php on line 169
+[25-Jun-2020 06:07:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 14400 bytes) in /home/pixml8xz/public_html/gokul/system/library/image.php on line 169
+[07-Sep-2020 06:15:55 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[07-Sep-2020 06:15:55 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[07-Sep-2020 22:46:25 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[07-Sep-2020 22:46:25 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[08-Sep-2020 05:19:24 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[08-Sep-2020 05:19:24 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[08-Sep-2020 05:19:27 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[08-Sep-2020 05:19:27 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[11-Sep-2020 03:19:35 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[11-Sep-2020 03:19:35 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[17-Sep-2020 09:39:11 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[17-Sep-2020 09:39:11 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[17-Sep-2020 09:40:23 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[17-Sep-2020 09:40:23 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[19-Sep-2020 21:41:44 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[19-Sep-2020 21:41:44 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[20-Sep-2020 17:09:20 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[20-Sep-2020 17:09:20 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[20-Sep-2020 18:17:25 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[20-Sep-2020 18:17:25 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[21-Sep-2020 00:29:48 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[21-Sep-2020 00:29:48 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[21-Sep-2020 00:32:12 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[21-Sep-2020 00:32:12 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[22-Sep-2020 20:05:04 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[22-Sep-2020 20:05:04 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[23-Sep-2020 03:06:05 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[23-Sep-2020 03:06:05 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[23-Sep-2020 03:06:15 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[23-Sep-2020 03:06:15 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[27-Sep-2020 18:20:35 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[27-Sep-2020 18:20:35 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[28-Sep-2020 23:29:12 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[28-Sep-2020 23:29:12 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[28-Sep-2020 23:29:19 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[28-Sep-2020 23:29:19 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[28-Sep-2020 23:30:51 America/Boise] PHP Warning:  require_once(/home/pixmlin/public_html/gokul/system/startup.php): failed to open stream: No such file or directory in /home4/pixmlin/public_html/gokul/index.php on line 17
+[28-Sep-2020 23:30:51 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home/pixmlin/public_html/gokul/system/startup.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/pixmlin/public_html/gokul/index.php on line 17
+[13-Apr-2021 09:47:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16384 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 123
+[13-Apr-2021 09:52:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16384 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 123
+[13-Apr-2021 09:55:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16384 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 123
+[13-Apr-2021 09:56:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16384 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 123
+[13-Apr-2021 10:49:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16384 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 123
+[01-May-2021 09:56:47 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 09:56:52 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 09:57:03 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 09:57:13 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 09:57:23 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 09:58:28 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 09:58:30 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:01:53 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:02:03 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:02:09 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:07:36 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:09:15 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:09:17 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 146. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:09:34 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 144. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:09:53 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 144. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:10:07 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 144. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[01-May-2021 10:10:10 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected end of template in "journal3/template/product/category.twig" at line 144. in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php:59
+Stack trace:
+#0 /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenParser/If.php(40): Twig_TokenStream->next()
+#1 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#3 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(619): Twig_Parser->parse(Object(Twig_TokenStream))
+#4 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(671): Twig_Environment->parse(Object(Twig_TokenStream))
+#5 /home4/pixmlin/public_html/gokul/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\n<u...', 'journal3/templa...')
+#6 /home4/pixmlin/pub in /home4/pixmlin/public_html/gokul/system/library/template/Twig/TokenStream.php on line 59
+[03-May-2021 06:42:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:42:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:42:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:42:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:42:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:42:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:42:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:43:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:43:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:43:20 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:43:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:43:35 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:43:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:43:42 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:43:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:44:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:44:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:44:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:44:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:44:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:44:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:44:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:45:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:45:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:46:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:46:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:46:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:46:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:46:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:46:53 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:46:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:47:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:47:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
+[03-May-2021 06:47:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home4/pixmlin/public_html/gokul/system/library/image.php on line 47
